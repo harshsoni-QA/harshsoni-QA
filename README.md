@@ -5,9 +5,9 @@
 
 ## About Me
 
-QA Automation Engineer with 3+ years of experience in software testing across e-commerce platforms. I specialise in building Selenium-Java automation frameworks, API testing, and integrating test pipelines into CI/CD workflows.
+QA Automation Engineer with 3+ years of experience delivering reliable, scalable test solutions. I work across the full testing spectrum from building Selenium-Java automation frameworks and API testing with Postman, to integrating test pipelines into CI/CD workflows.
 
-Currently deepening my expertise in **AI-powered test automation** using tools like testRigor — exploring how AI is reshaping quality engineering.
+Currently deepening my expertise in **AI-powered test automation** using tools like testRigor exploring how AI is reshaping quality engineering.
 
 - 🔭 Currently working on: Selenium-Java automation framework with Page Object Model, API testing, REST Assured
 - 🌱 Learning: AI-driven test automation, Cucumber BDD, Docker
