@@ -81,14 +81,6 @@ Currently deepening my expertise in **AI-powered test automation** using tools l
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshsoni27&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsoni27&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-<br/>
 
 ## Connect
 
