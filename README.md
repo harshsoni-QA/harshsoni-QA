@@ -9,7 +9,7 @@ QA Automation Engineer with 3+ years of experience delivering reliable, scalable
 
 Currently deepening my expertise in **AI-powered test automation** using tools like testRigor exploring how AI is reshaping quality engineering.
 
-- 🔭 Currently working on: Selenium-Java automation framework with Page Object Model, API testing, REST Assured
+- 🔭 Currently working on: Selenium-Java automation framework, API testing, REST Assured
 - 🌱 Learning: AI-driven test automation, Cucumber BDD, Docker
 - 📍 Based in: Bengaluru, India
 - 💼 Open to: SDET and QA Automation Engineer roles
