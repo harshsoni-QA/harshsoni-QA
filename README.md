@@ -63,7 +63,7 @@ Currently deepening my expertise in **AI-powered test automation** using tools l
 ### 🔧 Selenium Java Automation Framework *(coming soon)*
 > End-to-end UI automation framework built with Selenium WebDriver, Java, TestNG, and Maven following the Page Object Model design pattern.
 
-**Tech:** Selenium · Java · TestNG · Maven · Page Object Model
+**Tech:** Selenium · Java · TestNG · Maven
 
 ---
 
@@ -74,11 +74,11 @@ Currently deepening my expertise in **AI-powered test automation** using tools l
 
 ---
 
-### 🔧 AI Test Automation Demo
+### 🔧 AI Test Automation
 > Exploring testRigor's AI-powered automation capabilities on a sample web application.
 
 **Tech:** testRigor · AI Test Automation
-[Checkout](https://github.com/harshsoni-QA/testrigor-ecommerce-automation)
+- [testrigor-ecommerce-automation](https://github.com/harshsoni-QA/testrigor-ecommerce-automation)
 
 <br/>
 
