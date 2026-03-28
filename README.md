@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harsh Soni 👋</h1>
-<h3 align="center">QA Automation Engineer · AI-Powered Testing · Selenium · Java · API Testing</h3>
+<h3 align="center">QA Automation Engineer </h3>
 
 <br/>
 
