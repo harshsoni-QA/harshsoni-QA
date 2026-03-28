@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harsh Soni 👋</h1>
+<h1 align="center">I'm Harsh Soni 👋</h1>
 <h3 align="center">QA Automation Engineer </h3>
 
 <br/>
