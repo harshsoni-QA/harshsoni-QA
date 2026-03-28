@@ -48,13 +48,13 @@ Currently deepening my expertise in **AI-powered test automation** using tools l
 
 | Certification | Issuer | Year |
 |---|---|---|
-| AI-Driven Test Automation Engineer | testRigor | 2026 |
-| SelectorsHub Certification | SelectorsHub | 2026 |
-| Java Certification | HackerRank | 2025 |
-| SQL Intermediate | HackerRank | 2025 |
-| SQL Basic | HackerRank | 2025 |
-| Python Certification | HackerRank | 2025 |
-| Top 20 – Strategic Marketing & AI | Masters' Union × Schbang | 2025 |
+| [AI Test Automation Engineer](https://drive.google.com/file/d/1etL_9O2MwEITD78c0ofUpQ-G3-a0q2rt/view?usp=sharing) | testRigor | 2026 |
+| [SelectorsHub Certification](https://drive.google.com/file/d/1i3J4Pj6ehG26tvBNRMBuRJwqjYBsD5M_/view?usp=sharing) | SelectorsHub | 2026 |
+| [Java Certification](https://drive.google.com/file/d/1vUlxPLJT2yYoSLHFeX3ox-izTXIEPW4B/view?usp=sharing) | HackerRank | 2025 |
+| [SQL Intermediate](https://drive.google.com/file/d/1KdYXEl-a59QrtJNmju9StNIqN6W9J8gd/view?usp=sharing) | HackerRank | 2025 |
+| [SQL Basic](https://drive.google.com/file/d/1NSjKeEK5IPrBRKjbQS9deURJN8QfYtiu/view?usp=sharing) | HackerRank | 2025 |
+| [Python Certification](https://drive.google.com/file/d/1114l30YxGl-j0JnMTK2NV-JsOS-MZ4zI/view?usp=sharing) | HackerRank | 2025 |
+| [Top 20 – Strategic Marketing & AI](https://drive.google.com/file/d/1fdbEjofORAnFprOoTDczXF1phcrTbkz6/view?usp=sharing) | Masters' Union | 2025 |
 
 <br/>
 
@@ -74,10 +74,11 @@ Currently deepening my expertise in **AI-powered test automation** using tools l
 
 ---
 
-### 🔧 AI Test Automation Demo *(coming soon)*
+### 🔧 AI Test Automation Demo
 > Exploring testRigor's AI-powered automation capabilities on a sample web application.
 
 **Tech:** testRigor · AI Test Automation
+[Checkout](https://github.com/harshsoni-QA/testrigor-ecommerce-automation)
 
 <br/>
 
